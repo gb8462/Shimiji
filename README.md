@@ -3,7 +3,8 @@ Made my own shimiji using Python's tkinter library. The pet is represented by an
 
 _**(currently still in progress.)**_
 
-Cloning the repository.
+_Cloning the repository._
+
 ```ins
 git clone https://github.com/gb8462/Shimiji.git
 ```
