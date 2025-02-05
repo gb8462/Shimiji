@@ -1,6 +1,8 @@
 # Shimiji (working)
 Made my own shimiji using Python's tkinter library. The pet is represented by an animated image that can move around the screen and alternate between idle and walking states.
 
+(Work in progress)
+
 _Cloning the repository._
 
 ```ins
